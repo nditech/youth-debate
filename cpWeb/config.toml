@@ -46,7 +46,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "The Agency"
+    brand = "Youth Leading Debate"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Chapters"
@@ -76,9 +76,9 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    img = 'newheader-bg.jpg'
-    title = "Welcome To Our Studio!"
-    subtitle = "It's nice to meet you"
+    img = 'newHeader-bg.jpg'
+    title = "Youth Leading Debate"
+    subtitle = "Developing Policy Skills through the Art of Debate"
     buttonText = "Tell me more"
 
 
