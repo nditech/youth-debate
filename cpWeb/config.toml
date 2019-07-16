@@ -155,7 +155,7 @@ googleAnalytics = ""
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close"
 
   # Team section
   [params.team.block]
